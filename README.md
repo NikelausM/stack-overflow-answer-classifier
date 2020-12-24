@@ -55,6 +55,49 @@ This will open a jupyter lab tab in your default browser, in which you can run t
 - [Pandas](https://pandas.pydata.org/)
 
 ## Contributors
-<image x="74" y="74" width="64" height="64" style="border-radius: 5px" 
-       src="https://avatars3.githubusercontent.com/u/51514472?s=460&u=0e68a59a1bed0101bf500753790048630779cc9b&v=4">
-</image>
+<table>
+    <thead>
+        <tr>
+            <th align="center">
+                <a href="https://github.com/NikelausM">
+                    <img alt="NikelausM" src="https://avatars3.githubusercontent.com/u/51514472?s=460&u=0e68a59a1bed0101bf500753790048630779cc9b&v=4" 
+                         width="100" style="max-width:100%;">
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://github.com/umerhassan">
+                    <img alt="umerhassan" src="https://avatars0.githubusercontent.com/u/33638819?s=460&u=295596b81f2dee5d3dbd7527f215498cff66e6f9&v=4" 
+                         width="100" style="max-width:100%;">
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://github.com/sohahemmati">
+                    <img alt="NikelausM" src="https://avatars0.githubusercontent.com/u/26145849?s=460&v=4" 
+                         width="100" style="max-width:100%;">
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://github.com/Cong-The-Pencil-Coder">
+                    <img alt="NikelausM" src="https://avatars1.githubusercontent.com/u/24983245?s=460&u=a42d4af955c6f28e5b9e306ac6d28874bcc3261f&v=4" 
+                         width="100" style="max-width:100%;">
+                </a>
+            </th>
+        </tr>
+    </thead>
+<tbody>
+<tr>
+    <td align="center">
+        <a href="https://github.com/NikelausM">Nicolas Mora</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/umerhassan">Umer Hassan</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sohahemmati">Soha Hemmati</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Cong-The-Pencil-Coder">Cong Pham</a>
+    </td>
+</tr>
+</tbody>
+</table>
