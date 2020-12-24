@@ -13,7 +13,7 @@
 - [Contributors](#contributors)
 
 ## Introduction
-This is a PySpark project which pre-processes and classifies answers to questions on Stack Overflow as having succesfully answered the question or not.
+This is a PySpark project which pre-processes and classifies answers to questions on Stack Overflow as having successfully answered the question or not.
 
 This PySpark application was created for a Big Data final group project for the course [SENG 550: Engineering Large Scale Analytics Systems](https://www.ucalgary.ca/pubs/calendar/current/software-engineering.html#43920).
 
@@ -22,7 +22,7 @@ The dataset used to train and test the application was posted by Chris Dubois of
 
 ## Features
 - Pre-processes metadata of answer to questions on Stack Overflow.
-- Classifies answers as succesfully answering a question based on if it is likely to have a community given score of at least 1.
+- Classifies answers as successfully answering a question based on if it is likely to have a community given score of at least 1.
 - NumPy style documentation for maintainability and clarity of application.
 
 ## Launch
