@@ -3,7 +3,7 @@
     <img src="./images/icons/spark-logo-hd.png" alt="Spark logo." style="float: right; width: 49%"">
 </p>
 
-# Stack Overflow Classifier
+# Stack Overflow Answer Classifier
 
 ## Table of Contents
 - [Introduction](#introduction)
