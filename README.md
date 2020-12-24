@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="./images/icons/python.PNG" alt="Python programming language logo." style="float: left; width: 49%">
-    <img src="./images/icons/spark-logo-hd.png" alt="Spark logo." style="float: right; width: 49%"">
+    <img src="./images/icons/python.PNG" alt="Python programming language logo." style="float: left; width: 40%">
+    <img src="./images/icons/spark-logo-hd.png" alt="Spark logo." style="float: right; width: 40%"">
 </p>
 
 # Stack Overflow Answer Classifier
