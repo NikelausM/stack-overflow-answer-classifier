@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="./images/icons/python.PNG" alt="Python programming language logo." style="float: left; width: 50%">
-    <img src="./images/icons/spark-logo-hd.png" alt="Spark logo." style="float: right; width: 50%"">
+    <img src="./images/icons/python.PNG" alt="Python programming language logo." style="float: left; width: 49%">
+    <img src="./images/icons/spark-logo-hd.png" alt="Spark logo." style="float: right; width: 49%"">
 </p>
 
 # Stack Overflow Classifier
@@ -44,6 +44,8 @@ This will open a jupyter lab tab in your default browser, in which you can run t
 ## Screenshots
 ### Training Data Evaluation Metrics for Each Classifier
 <img src="images/results/training_data_eval_metrics.png" alt="A screenshot of the training data evaluation metrics for the different classifiers.">
+
+Explanation for recall being 1: The baseline model is just the mean value of the labels rounded to the nearest integer. In the case of this data set, that mean value rounded up to 1. Therefore, the baseline model will never have a false negative due it always classifying a sample as "relevant" (i.e., the label is always 1). This results in the Recall just being equivalent to TP (Number of true positives) over TP, which is just 1.
 
 ### Validation Data Evaluation Metrics for Each Classifier
 <img src="images/results/validation_data_eval_metrics.png" alt="A screenshot of the validation data evaluation metrics for the different classifiers.">
