@@ -10,6 +10,7 @@
 - [Features](#features)
 - [Launch](#launch)
 - [Screenshots](#screenshots)
+- [Contributors](#contributors)
 
 ## Introduction
 This is PySpark project which pre-processes and classifies answers to questions on Stack Overflow as having succesfully answered the question or not.
@@ -52,3 +53,8 @@ This will open a jupyter lab tab in your default browser, in which you can run t
 - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
 - [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
+
+## Contributors
+<image x="74" y="74" width="64" height="64" style="border-radius: 5px" 
+       src="https://avatars3.githubusercontent.com/u/51514472?s=460&u=0e68a59a1bed0101bf500753790048630779cc9b&v=4">
+</image>
