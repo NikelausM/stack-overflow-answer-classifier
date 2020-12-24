@@ -1,10 +1,9 @@
-"# stack-overflow-answer-classifier" 
 <p align="center">
     <img src="./images/icons/python.PNG" alt="Python programming language logo." width="386" height="109">
     <img src="./images/icons/spark-logo-hd.png" alt="Flask icon." width="160" height="205">
 </p>
 
-# Pricing Service
+# Stack Overflow Classifier
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -51,3 +50,5 @@ This will open a jupyter lab tab in your default browser, in which you can run t
 ## Technologies
 - [Python version 3.8.2](https://www.python.org/downloads/release/python-382/)
 - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
