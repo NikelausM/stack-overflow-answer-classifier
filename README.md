@@ -74,13 +74,13 @@ Explanation for recall being 1: The baseline model is just the mean value of the
             </th>
             <th align="center">
                 <a href="https://github.com/sohahemmati">
-                    <img alt="NikelausM" src="https://avatars0.githubusercontent.com/u/26145849?s=460&v=4" 
+                    <img alt="sohahemmati" src="https://avatars0.githubusercontent.com/u/26145849?s=460&v=4" 
                          width="100" style="max-width:100%;">
                 </a>
             </th>
             <th align="center">
                 <a href="https://github.com/Cong-The-Pencil-Coder">
-                    <img alt="NikelausM" src="https://avatars1.githubusercontent.com/u/24983245?s=460&u=a42d4af955c6f28e5b9e306ac6d28874bcc3261f&v=4" 
+                    <img alt="Cong-The-Pencil-Coder" src="https://avatars1.githubusercontent.com/u/24983245?s=460&u=a42d4af955c6f28e5b9e306ac6d28874bcc3261f&v=4" 
                          width="100" style="max-width:100%;">
                 </a>
             </th>
