@@ -13,7 +13,7 @@
 - [Contributors](#contributors)
 
 ## Introduction
-This is a PySpark project which pre-processes and classifies answers to questions on Stack Overflow as having successfully answered the question or not.
+This is a PySpark project which pre-processes and classifies answers to questions on [Stack Overflow](https://stackoverflow.com/) as having successfully answered the question or not.
 
 This PySpark application was created for a Big Data final group project for the course [SENG 550: Engineering Large Scale Analytics Systems](https://www.ucalgary.ca/pubs/calendar/current/software-engineering.html#43920).
 
